@@ -66,9 +66,9 @@ public class PolarMacroPlugin extends Plugin {
 
 
 
-    private static final String KILL_WEBHOOK_URL = "https://discord.com/api/webhooks/1381043205331488768/RzxGmS-_JiaZBB8OcA0fSSuB1A7V-tmc7QNERKBscsYRKXF8HuR98DUXU9ZuEFUfNwW8";
-    private static final String DEATH_WEBHOOK_URL = "https://discord.com/api/webhooks/1381043458386563223/Z_gINKIied2f4pbzDauB2yUe1Gge3bkTlepekrD40eEiIdiwTq52bqlaF3yUWTb27Stc";
-    private static final String LOOT_WEBHOOK_URL = "https://discord.com/api/webhooks/1381051523290628277/CSdK0_vNPSMAKrlzcSJFRshGK9mJ40Gv-kCKBSHnULEC_VCVkr9goeKE_bk52gPojr-N";
+    private static final String KILL_WEBHOOK_URL = "the old webhook is gone, add yours";
+    private static final String DEATH_WEBHOOK_URL = "the old webhook is gone, add yours";
+    private static final String LOOT_WEBHOOK_URL = "the old webhook is gone, add yours";
 
 
 
@@ -453,3 +453,4 @@ public class PolarMacroPlugin extends Plugin {
 
 
 }
+
