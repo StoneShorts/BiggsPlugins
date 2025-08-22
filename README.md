@@ -6,3 +6,11 @@ Some of my plugins I want to share with the public, to further the community. AL
 
 This was developed on my own private API. You will have to port it to the API of your choice. (Preferably microbot, as they actually care about the community)!
 GLHF
+
+If releasing, you must put: 
+/*
+ * Copyright (c) 2025 Polar Plugins
+ * Licensed under the Apache License, Version 2.0.
+ * See LICENSE and NOTICE for details.
+ */
+Inside your plugin somewhere aswell.
